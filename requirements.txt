@@ -4,3 +4,5 @@ plotly
 plotly_express
 seaborn
 python-whois
+tweepy
+python-dotenv

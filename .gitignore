@@ -5,3 +5,5 @@ vmira
 # Default ignored files
 /shelf/
 /workspace.xml
+.env
+main/main/tweepy.log
